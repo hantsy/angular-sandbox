@@ -67,7 +67,7 @@ export class AppModule {}
 
 
 
-Create a simple layout with sidenav[^1]  and toolbar[^2]. 
+Create a simple layout with sidenav  and toolbar. 
 
 ```html
 <mat-toolbar>
@@ -83,13 +83,16 @@ Create a simple layout with sidenav[^1]  and toolbar[^2].
 </mat-sidenav-container>
 ```
 
-The Smashing Magazine provides a great tutorial[^3]  to create a starter of  Angular Material. I added a small modification according to Sidenav documentation.
+The [Smashing Magazine](https://www.smashingmagazine.com) provides [a great tutorial](https://www.smashingmagazine.com/2018/10/news-application-with-angular-and-material-design/)  to create a Angular Material starter .
+
+I added some small modification according to Sidenav documentation. Finally it looks like:
 
 ![material](./material.png)
 
+Some useful links to create a simple layout:
 
-[^1]: [Sidenav](https://material.angular.io/components/sidenav/overview)
-[^2]: [Toolbar](https://material.angular.io/components/toolbar/overview)
-[^3]: [How To Build A News Application With Angular 6 And Material Design](https://www.smashingmagazine.com/2018/10/news-application-with-angular-and-material-design/)
+* [Sidenav](https://material.angular.io/components/sidenav/overview)
+* [Toolbar](https://material.angular.io/components/toolbar/overview)
+* [How To Build A News Application With Angular 6 And Material Design](https://www.smashingmagazine.com/2018/10/news-application-with-angular-and-material-design/)
 
 
